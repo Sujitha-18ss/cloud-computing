@@ -1,0 +1,49 @@
+What Is Cloud Computing ?
+Last Updated : 06 May, 2024
+Nowadays, Cloud computing is adopted by every company, whether it is an MNC or a startup many are still migrating towards it because of the cost-cutting, lesser maintenance, and the increased capacity of the data with the help of servers maintained by the cloud providers.
+
+One more reason for this drastic change from the On-premises servers of the companies to the Cloud providers is the ‘Pay as you go’ principle-based services provided by them i.e., you only have to pay for the service which you are using. The disadvantage On-premises server holds is that if the server is not in use the company still has to pay for it.
+
+Table of Content
+
+What Is Cloud Computing?
+Understanding How Cloud Computing Works?
+Origins Of Cloud Computing
+What is Virtualization In Cloud Computing?
+Architecture Of Cloud Computing
+What Are The Types of Cloud Computing Services?
+What Are Cloud Deployment Models?
+What Is Cloud Hosting?
+Characteristics Of Cloud Computing
+Top Reasons to Switch from On-premise to Cloud Computing
+Top leading Cloud Computing companies
+Advantages of Cloud Computing
+Disadvantages Of Cloud Computing
+Cloud Sustainability
+Cloud Security
+Use Cases Of Cloud Computing
+Cloud Computing – FAQs
+What Is Cloud Computing?
+Cloud Computing means storing and accessing the data and programs on remote servers that are hosted on the internet instead of the computer’s hard drive or local server. Cloud computing is also referred to as Internet-based computing, it is a technology where the resource is provided as a service through the Internet to the user. The data that is stored can be files, images, documents, or any other storable document.
+
+The following are some of the Operations that can be performed with Cloud Computing
+
+Storage, backup, and recovery of data
+Delivery of software on demand
+Development of new applications and services
+Streaming videos and audio
+Understanding How Cloud Computing Works?
+Cloud computing helps users in easily accessing computing resources like storage, and processing over internet rather than local hardwares. Here we discussing how it works in nutshell:
+
+Infrastructure: Cloud computing depends on remote network servers hosted on internet for store, manage, and process the data.
+On-Demand Acess: Users can access cloud services and resources based on-demand they can scale up or down the without having to invest for physical hardware.
+Types of Services: Cloud computing offers various benefits such as cost saving, scalability, reliability and acessibility it reduces capital expenditures, improves efficiency.
+Origins Of Cloud Computing
+Mainframe computing in the 1950s and the internet explosion in the 1990s came together to give rise to cloud computing. Since businesses like Amazon, Google, and Salesforce started providing web-based services in the early 2000s. The term “cloud computing” has gained popularity. Scalability, adaptability, and cost-effectiveness are to be facilitated by the concept’s on-demand internet-based access to computational resources.
+
+These days, cloud computing is pervasive, driving a wide range of services across markets and transforming the processing, storage, and retrieval of data
+
+What is Virtualization In Cloud Computing?
+Virtualization is the software technology that helps in providing the logical isolation of physical resources. Creating logical isolation of physical resources such as RAM, CPU, and Storage.. over the cloud is known as Virtualization in Cloud Computing. In simple we can say creating types of Virtual Instances of computing resources over the cloud. It provides better management and utilization of hardware resources with logical isolation making the applications independent of others. It facilitates streamlining the resource allocation and enhancing scalability for multiple virtual computers within a single physical source offering cost-effectiveness and better optimization of resources.
+
+To know ab

@@ -1,0 +1,21 @@
+
+fiLE SYSTEM:
+1.How to create a file inside a directory
+2.Creating a hirarchy and structure
+COMMENDS:
+1.sudo apt update -used to update the ubantu server
+2.tree / -to view file system hirarchy
+3.ls -l -list a dictory content
+4.df -h -to check the usage of file
+5.du -sh -disk space usage of directory
+ 
+MANAGING FILES:
+touch filename -create
+rm filename -delete
+mv originalfilename changingfilename -rename
+mv filename/home/skacas/krixh -move
+echo content -write
+
+VIEWING A FILE:
+cat filenamen -display a file content
+nano filename -edit the file

@@ -1,0 +1,5 @@
+INFO:Application started at 10:00 AM
+ERROR:Database connection failed
+INFO:User logged in successfully
+ERROR:File not found
+INFO:Application terminated at 11:00 AM
