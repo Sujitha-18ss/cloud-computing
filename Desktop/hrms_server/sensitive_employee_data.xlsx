@@ -1,0 +1,6 @@
+emp_01:-
+security_no=1001
+salary=10k
+emp_02:-
+security_no=1002
+salary=11k
